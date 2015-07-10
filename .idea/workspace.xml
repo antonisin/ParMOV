@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65f5c671-bbad-4507-8f70-b13ec0708676" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.php" afterPath="$PROJECT_DIR$/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="films.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="films" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ParseClass.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ParseClass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+              <folding>
+                <element signature="e#7#96#0#PHP" expanded="true" />
+                <element signature="e#164#270#0#PHP" expanded="true" />
+                <element signature="e#294#438#0#PHP" expanded="true" />
+                <element signature="n#getDonors#0;n#ParseClass#0;n#!!top" expanded="true" />
+                <element signature="e#650#840#0#PHP" expanded="true" />
+                <element signature="n#setDonors#0;n#ParseClass#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5165289">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#123#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings/settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#6#123#0#PHP" expanded="true" />
+                <element signature="e#165#337#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhdParser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parsers/zhdParser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-54.375">
+              <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#124#0#PHP" expanded="true" />
+                <element signature="e#127#229#0#PHP" expanded="true" />
+                <element signature="e#378#469#0#PHP" expanded="true" />
+                <element signature="e#502#605#0#PHP" expanded="true" />
+                <element signature="e#782#1057#0#PHP" expanded="true" />
+                <element signature="n#getUrls#0;n#zhdParser#0;n#!!top" expanded="true" />
+                <element signature="e#1322#1641#0#PHP" expanded="true" />
+                <element signature="e#2408#3104#0#PHP" expanded="true" />
+                <element signature="n#formatResults#0;n#zhdParser#0;n#!!top" expanded="true" />
+                <element signature="e#3470#3570#0#PHP" expanded="true" />
+                <element signature="n#getContent#0;n#zhdParser#0;n#!!top" expanded="true" />
+                <element signature="e#3652#3783#0#PHP" expanded="true" />
+                <element signature="n#setContent#0;n#zhdParser#0;n#!!top" expanded="true" />
+                <marker date="1436555015000" expanded="true" signature="770:3895" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/http.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="8.461538">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="e#66208#66564#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core_c.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.470588">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#165#294#0#PHP" expanded="true" />
+                <element signature="e#322#436#0#PHP" expanded="true" />
+                <element signature="e#492#754#0#PHP" expanded="true" />
+                <element signature="e#793#947#0#PHP" expanded="true" />
+                <element signature="e#4415#4530#0#PHP" expanded="true" />
+                <element signature="e#4642#4790#0#PHP" expanded="true" />
+                <element signature="e#5349#5546#0#PHP" expanded="true" />
+                <element signature="e#7733#8350#0#PHP" expanded="true" />
+                <element signature="e#8486#8689#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="standard_5.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4313726">
+              <caret line="1044" column="9" selection-start-line="1044" selection-start-column="9" selection-end-line="1044" selection-end-column="9" />
+              <folding>
+                <element signature="e#30905#33394#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UtilsClass.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/UtilsClass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding>
+                <element signature="e#7#124#0#PHP" expanded="true" />
+                <element signature="e#126#232#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MysqlClass.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/MysqlClass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="130" column="36" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+              <folding>
+                <element signature="e#7#124#0#PHP" expanded="true" />
+                <element signature="e#126#232#0#PHP" expanded="true" />
+                <element signature="e#256#402#0#PHP" expanded="true" />
+                <element signature="e#427#567#0#PHP" expanded="true" />
+                <element signature="e#592#743#0#PHP" expanded="true" />
+                <element signature="e#772#911#0#PHP" expanded="true" />
+                <element signature="e#936#1087#0#PHP" expanded="true" />
+                <element signature="e#1116#1285#0#PHP" expanded="true" />
+                <element signature="e#1316#1786#0#PHP" expanded="true" />
+                <element signature="n#__construct#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#2050#2304#0#PHP" expanded="true" />
+                <element signature="e#2640#2739#0#PHP" expanded="true" />
+                <element signature="n#getHost#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#2815#2942#0#PHP" expanded="true" />
+                <element signature="n#setHost#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#3047#3148#0#PHP" expanded="true" />
+                <element signature="n#getPort#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#3224#3369#0#PHP" expanded="true" />
+                <element signature="n#setPort#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#3474#3578#0#PHP" expanded="true" />
+                <element signature="n#getPassword#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#3662#3818#0#PHP" expanded="true" />
+                <element signature="n#setPassword#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#3939#4039#0#PHP" expanded="true" />
+                <element signature="n#getUser#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#4115#4259#0#PHP" expanded="true" />
+                <element signature="n#setUser#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#4364#4468#0#PHP" expanded="true" />
+                <element signature="n#getDatabase#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#4552#4703#0#PHP" expanded="true" />
+                <element signature="n#setDatabase#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#4824#4942#0#PHP" expanded="true" />
+                <element signature="n#getConnection#0;n#MysqlClass#0;n#!!top" expanded="true" />
+                <element signature="e#5030#5199#0#PHP" expanded="true" />
+                <element signature="n#setConnection#0;n#MysqlClass#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/UtilsClass.php" />
+        <option value="$PROJECT_DIR$/lib/MysqlClass.php" />
+        <option value="$PROJECT_DIR$/lib/ParseClass.php" />
+        <option value="$PROJECT_DIR$/settings/settings.php" />
+        <option value="$PROJECT_DIR$/vendors/Client.php" />
+        <option value="$PROJECT_DIR$/parsers/zhdParser.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="films" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="films" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="films" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../okedel" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65f5c671-bbad-4507-8f70-b13ec0708676" name="Default" comment="" />
+      <created>1436526678434</created>
+      <option name="number" value="Default" />
+      <updated>1436526678434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21796875" sideWeight="0.49466667" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21796875" sideWeight="0.5053333" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933334" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/UtilsClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="e#7#124#0#PHP" expanded="true" />
+            <element signature="e#126#232#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/MysqlClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="130" column="36" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+          <folding>
+            <element signature="e#7#124#0#PHP" expanded="true" />
+            <element signature="e#126#232#0#PHP" expanded="true" />
+            <element signature="e#256#402#0#PHP" expanded="true" />
+            <element signature="e#427#567#0#PHP" expanded="true" />
+            <element signature="e#592#743#0#PHP" expanded="true" />
+            <element signature="e#772#911#0#PHP" expanded="true" />
+            <element signature="e#936#1087#0#PHP" expanded="true" />
+            <element signature="e#1116#1285#0#PHP" expanded="true" />
+            <element signature="e#1316#1786#0#PHP" expanded="true" />
+            <element signature="n#__construct#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#2050#2304#0#PHP" expanded="true" />
+            <element signature="e#2640#2739#0#PHP" expanded="true" />
+            <element signature="n#getHost#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#2815#2942#0#PHP" expanded="true" />
+            <element signature="n#setHost#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#3047#3148#0#PHP" expanded="true" />
+            <element signature="n#getPort#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#3224#3369#0#PHP" expanded="true" />
+            <element signature="n#setPort#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#3474#3578#0#PHP" expanded="true" />
+            <element signature="n#getPassword#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#3662#3818#0#PHP" expanded="true" />
+            <element signature="n#setPassword#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#3939#4039#0#PHP" expanded="true" />
+            <element signature="n#getUser#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#4115#4259#0#PHP" expanded="true" />
+            <element signature="n#setUser#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#4364#4468#0#PHP" expanded="true" />
+            <element signature="n#getDatabase#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#4552#4703#0#PHP" expanded="true" />
+            <element signature="n#setDatabase#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#4824#4942#0#PHP" expanded="true" />
+            <element signature="n#getConnection#0;n#MysqlClass#0;n#!!top" expanded="true" />
+            <element signature="e#5030#5199#0#PHP" expanded="true" />
+            <element signature="n#setConnection#0;n#MysqlClass#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ParseClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="e#7#96#0#PHP" expanded="true" />
+            <element signature="e#164#270#0#PHP" expanded="true" />
+            <element signature="e#294#438#0#PHP" expanded="true" />
+            <element signature="n#getDonors#0;n#ParseClass#0;n#!!top" expanded="true" />
+            <element signature="e#650#840#0#PHP" expanded="true" />
+            <element signature="n#setDonors#0;n#ParseClass#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#123#0#PHP" expanded="true" />
+            <element signature="e#165#337#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4313726">
+          <caret line="1044" column="9" selection-start-line="1044" selection-start-column="9" selection-end-line="1044" selection-end-column="9" />
+          <folding>
+            <element signature="e#30905#33394#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsers/zhdParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-54.375">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#124#0#PHP" expanded="true" />
+            <element signature="e#127#229#0#PHP" expanded="true" />
+            <element signature="e#378#469#0#PHP" expanded="true" />
+            <element signature="e#502#605#0#PHP" expanded="true" />
+            <element signature="e#782#1057#0#PHP" expanded="true" />
+            <element signature="n#getUrls#0;n#zhdParser#0;n#!!top" expanded="true" />
+            <element signature="e#1322#1641#0#PHP" expanded="true" />
+            <element signature="e#2408#3104#0#PHP" expanded="true" />
+            <element signature="n#formatResults#0;n#zhdParser#0;n#!!top" expanded="true" />
+            <element signature="e#3470#3570#0#PHP" expanded="true" />
+            <element signature="n#getContent#0;n#zhdParser#0;n#!!top" expanded="true" />
+            <element signature="e#3652#3783#0#PHP" expanded="true" />
+            <element signature="n#setContent#0;n#zhdParser#0;n#!!top" expanded="true" />
+            <marker date="1436555015000" expanded="true" signature="770:3895" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.461538">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#66208#66564#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.470588">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#165#294#0#PHP" expanded="true" />
+            <element signature="e#322#436#0#PHP" expanded="true" />
+            <element signature="e#492#754#0#PHP" expanded="true" />
+            <element signature="e#793#947#0#PHP" expanded="true" />
+            <element signature="e#4415#4530#0#PHP" expanded="true" />
+            <element signature="e#4642#4790#0#PHP" expanded="true" />
+            <element signature="e#5349#5546#0#PHP" expanded="true" />
+            <element signature="e#7733#8350#0#PHP" expanded="true" />
+            <element signature="e#8486#8689#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5165289">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#123#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
