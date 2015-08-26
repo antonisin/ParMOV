@@ -1,25 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Maxim Antonisin <antonisin.maxim@gmail.com>
- * Date: 10.07.15
- * Time: 14:51
- */
 
-require_once('lib/ParseClass.php');
+namespace App;
 
-/** Include defaults settings */
-include_once('settings/settings.php');
+require_once 'autoload.php';
+use Parsers\KinogoParser;
 
-
-$startTime = microtime(true);
-$parsers[0]->execute();
-
-echo microtime(true) - $startTime;
-
-//$parser = new ParseClass();
-//$parser->setDonors($donors);
-
-
-
-//var_dump($parser->getDonors());
+$parser = new KinogoParser();
+$parser->execute();
